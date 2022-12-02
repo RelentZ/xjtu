@@ -7,13 +7,11 @@
 &emsp;&emsp;笔者想先以本科生为出发，本科生能写完的话，笔者就写硕士生。博士实在没有相关的经历，就不敢妄言了。
 
 &emsp;&emsp;首先，笔者必须说明的是，西安交通大学是一所赢者通吃的学校，头部的同学获取到的资源非常多，在此基础上能走的更远的多，比如以下的班级，光看这个毕业去向，你甚至觉得西安交通大学是当之无愧的Top9高校。
+
 <div align=center><img src="./assets/math.jpg"></div>
 
-<div style="color:orange; solid #d9d9d9;
-    text-align:center;
-    color: #999;
-    padding: 2px;"
-    >这个就业去向，个人认为是非常好的，绝对不亚于所谓的“华东五校”
+<div style="color:orange; solid #d9d9d9; text-align:center; color: #999;padding: 2px">
+    这个就业去向，个人认为是非常好的，绝对不亚于所谓的“华东五校”
 </div>
 
 &emsp;&emsp;如果说读者说数学是西安交通大学的强势专业，那么物理学作为学科评估排名B+的学校，其去向也非常优秀：
